@@ -1,7 +1,7 @@
 {
   "name": "fototeca-uf1844-ironhack",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Demo](https://fototeca-uf1844-ironhack.onrender.com/)",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
@@ -16,5 +16,6 @@
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "morgan": "^1.10.0"
-  }
+  },
+  "devDependencies": {}
 }
